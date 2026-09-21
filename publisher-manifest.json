@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b1795b7a8fc6586407a6b730",
+  "owner": "jxedmwqn",
+  "repo": "page-0c6ce85bce43782fbbb4d65e",
+  "title": "TIGR",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0c6ce85bce43782fbbb4d65e",
+      "a": "TIGR",
+      "b": "机场官网线路发布页",
+      "entity": "TIGR",
+      "brand": "TIGR",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1c145a18e7c22cce216fc6c62d6526f51db7459b0982cf7a100397f44fa2b705",
+      "content": {
+        "primary_entity": "TIGR",
+        "keyword1": "TIGR",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择适配客户端，再导入订阅链接。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据常用设备与月流量挑选版本，按年付更省。",
+          "AI_CLOSING_TITLE": "开始选择适合的套餐",
+          "AI_DESCRIPTION": "，TIGR 面向需要稳定海外加速的用户，提供基础版、旗舰版与团队版三个档位。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备，含 IPLC 专线；团队版每月 1000GB、支持 20 台设备，适合小团队共享。客户端覆盖 Windows、macOS、Android、iOS 与路由器，按设备系统选择并导入订阅即可使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。按使用人数和流量需求选择即可。",
+          "AI_FAQ_ANSWER_2": "个人手机加电脑选基础版即可；需要流媒体与游戏加速选旗舰版；多人共享或团队办公选团队版，设备数量上限分别为 3、5、20 台。",
+          "AI_FAQ_ANSWER_3": "支持 Windows、macOS、Android、iOS 等系统，部分路由器也可通过订阅导入。具体以所选客户端文档为准，按设备系统匹配对应版本。",
+          "AI_FAQ_ANSWER_4": "套餐按月计费，也提供年付价格。基础版年付 ¥150/年，旗舰版年付 ¥350/年，团队版年付 ¥850/年，长期使用可按年付费。",
+          "AI_FAQ_ANSWER_5": "在客户端中新增订阅并粘贴订阅链接，保存后更新节点即可。设备数量受所选版本限制，超出后需升级或断开其他设备。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版流量各是多少？",
+          "AI_FAQ_QUESTION_2": "不同版本适合什么使用场景？",
+          "AI_FAQ_QUESTION_3": "TIGR 支持哪些客户端设备？",
+          "AI_FAQ_QUESTION_4": "套餐如何计费，可以按年付吗？",
+          "AI_FAQ_QUESTION_5": "订阅链接导入后如何限制设备数量？",
+          "AI_FAQ_TITLE": "套餐选择常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备与线路三个维度对比版本，按需选择。",
+          "AI_FEATURES_TITLE": "套餐与配置要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/3 台，旗舰版 300GB/5 台，团队版 1000GB/20 台。",
+          "AI_FEATURE_TEXT_2": "个人手机电脑选基础版；流媒体与游戏加速选旗舰版；多人共享选团队版。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省；旗舰版含 IPLC 专线，团队版含 VIP 高带宽节点。",
+          "AI_FEATURE_TITLE_1": "流量与设备",
+          "AI_FEATURE_TITLE_2": "按场景选版本",
+          "AI_FEATURE_TITLE_3": "计费与线路",
+          "AI_GUIDE_INTRO": "先确认使用设备与流量需求，再完成订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "TIGR 提供基础版、旗舰版与团队版三档套餐，覆盖个人到小团队场景。按设备数量与月流量选择版本，月付或年付均可，客户端导入订阅链接即可开始使用。",
+          "AI_HERO_SUBTITLE": "按设备与流量选择加速套餐",
+          "AI_HIGHLIGHT_1": "100GB 至 1000GB 多档流量",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备",
+          "AI_HIGHLIGHT_3": "月付年付灵活可选",
+          "AI_PLANS_INTRO": "对比流量、设备数量与线路，选择基础版、旗舰版或团队版。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量，在基础版、旗舰版、团队版之间确定版本。",
+          "AI_STEP_TEXT_2": "查看所选版本支持的设备类型与在线数量，确认路由器或移动端是否满足需求。",
+          "AI_STEP_TEXT_3": "按客户端文档新增订阅、粘贴链接并更新节点，完成后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "TIGR 套餐选择"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tfejc.cn",
+    "host": "tfejc.cn"
+  },
+  "file_hashes": {
+    "index.html": "258e552fce337213f366284442097742de74080bc07c66e7e068e402cc55674d",
+    "sitemap.xml": "a6d777fddf66ffc1333e2d98fd8a60fe81ab8cd633cf08203a4c516d40d285e2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9f0d0ea527d2c1248c77b55b4f6c74917d7e789e3045a108051c0a41f9ea5c90",
+    "robots.txt": "384f67fa966bcfedddaf9fb38c4a2fc164531240328f24a1f4984367e23991f5",
+    "def5abb117dbf7d956924b43d1e60580.txt": "3671025739a56443cb3ffedea77ca7b467008639eceb50a0a1c26d85facd52ba"
+  },
+  "revision": "f0038bd80c1a49b25a2d5776fce3f0a12c6c531f55494e9ba54fc6e381a91a47"
+}
